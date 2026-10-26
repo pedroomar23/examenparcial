@@ -28,3 +28,5 @@ La lista se implementa con nodos enlazados, sin utilizar `java.util.LinkedList`.
 2. Lista original vacía: verifica que el resultado tenga tamaño cero.
 3. Lista con pacientes, pero ninguno en Urgencias: verifica que el resultado tenga tamaño cero.
 4. Paciente con área nula junto con otro paciente en Urgencias: verifica que se ignore el área nula y se incluya el paciente correspondiente.
+
+
